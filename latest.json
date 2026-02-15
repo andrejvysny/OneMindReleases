@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0",
+  "notes": "",
+  "pub_date": "2026-02-15T19:47:19.208Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSlp3RncwUzI2TEcxemdZZTZxdDBrYjJzRjJ5Rld2R0dIdTYwanRRMVBwOHMyRWYrZEl4NGJYL3FyTjBUMGxDWnhxZmhaelU5MjQ0MkJFcDFQRW5Pb2RTN0lBcWVnWVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMTg0ODMxCWZpbGU6T25lTWluZC5hcHAudGFyLmd6CjRrOVZPZURmeUplc2dFSDZIL2hSSjZsWWoxNWNUTjYwcU9PYUhDTkoxUmVaeXdyaFZlajR0UmhYZm1EeGNRYlJoZmovUEpuMmtDb0FvbFNTUTRiM0NnPT0K",
+      "url": "https://github.com/andrejvysny/OneMindReleases/releases/download/v0.1.0/OneMind_aarch64.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSlp3RncwUzI2TEcxemdZZTZxdDBrYjJzRjJ5Rld2R0dIdTYwanRRMVBwOHMyRWYrZEl4NGJYL3FyTjBUMGxDWnhxZmhaelU5MjQ0MkJFcDFQRW5Pb2RTN0lBcWVnWVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMTg0ODMxCWZpbGU6T25lTWluZC5hcHAudGFyLmd6CjRrOVZPZURmeUplc2dFSDZIL2hSSjZsWWoxNWNUTjYwcU9PYUhDTkoxUmVaeXdyaFZlajR0UmhYZm1EeGNRYlJoZmovUEpuMmtDb0FvbFNTUTRiM0NnPT0K",
+      "url": "https://github.com/andrejvysny/OneMindReleases/releases/download/v0.1.0/OneMind_aarch64.app.tar.gz"
+    }
+  }
+}
